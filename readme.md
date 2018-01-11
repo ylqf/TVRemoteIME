@@ -22,10 +22,15 @@
 
 2、根据应用的提示进行设置即可。  
 
-## 控制界面示例截图（输入控制端不需要安装任何APK应用，直接浏览器操作） 
+## 控制界面示例截图  
+注： 输入控制端不需要安装任何APK应用，直接浏览器操作  
+
 ![示例截图](https://raw.githubusercontent.com/kingthy/TVRemoteIME/master/released/screenshot.jpg "控制界面示例截图")  
 
-# 引用第三方包说明
+# 引用第三方包/资源说明
 1、[NanoHttpd](https://github.com/NanoHttpd/nanohttpd "NanoHttpd")  用于实现HTTP WEB服务  
 
 2、[ZXing](https://github.com/zxing/zxing/ "QRCode") 用于实现二维码的输出
+ 
+3、[悟空遥控](http://www.wukongtv.com/views/input.html "悟空遥控")  非常棒的一款遥控软件。  
+注：本软件远程控制端的遥控导航面板设计图和小部分CSS代码参考于它。
