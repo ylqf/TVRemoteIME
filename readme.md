@@ -6,7 +6,7 @@
 
 2、电脑通过adb命令连接电视盒子（假如电视盒子的内网ip为：192.168.1.100）  
 `adb connect 192.168.1.100:5555`  
-注意,手机要与盒子在同一个WIFI网络(内网网络)  执行~adb devices~命令显示有device列表，则表示已连接上盒子，可继续下一步
+注意,手机要与盒子在同一个WIFI网络(内网网络)  执行`adb devices`命令显示有device列表，则表示已连接上盒子，可继续下一步
 
 3、通过以下命令安装输入法apk包  
 `adb install IMEService-release.apk`  
