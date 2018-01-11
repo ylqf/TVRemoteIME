@@ -21,3 +21,11 @@
 1、安装后在盒子应用列表里找到TVRemoteIME的图标点击运行  
 
 2、根据应用的提示进行设置即可。  
+
+## 控制界面示例截图（输入控制端不需要安装任何APK应用，直接浏览器操作） 
+![示例截图](https://raw.githubusercontent.com/kingthy/TVRemoteIME/master/released/screenshot.jpg "控制界面示例截图")  
+
+# 引用第三方包说明
+1、[NanoHttpd](https://github.com/NanoHttpd/nanohttpd "NanoHttpd")  用于实现HTTP WEB服务  
+
+2、[ZXing](https://github.com/zxing/zxing/ "QRCode") 用于实现二维码的输出
